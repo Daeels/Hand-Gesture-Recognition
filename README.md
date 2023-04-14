@@ -2,6 +2,8 @@
 
 Welcome to Hand Gesture Recognition! This Python application uses the OpenCV library to detect hand movements using a camera. The hand gestures can be used to control a PowerPoint presentation or Spotify music.
 
+![image](https://user-images.githubusercontent.com/55410084/231918501-f981670f-d4b6-4fac-a929-3b698a0362ea.png)
+
 ## Installation 🚀
 
 To use Hand Gesture Recognition, you will need to install Python 3 and the OpenCV library. You can install OpenCV using pip:
